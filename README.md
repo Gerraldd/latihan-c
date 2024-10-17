@@ -5,5 +5,5 @@ Nama : Geral
 Kelas : XI RPL C
 No : 01
 
-Saya ingin berterimakasih kepada Ayah
-Ucapan Terimakasih untuk Ayah : Terimakasih telah memberi apa yang aku inginkan.
+Saya ingin berterimakasih kepada Kedua Orang Tua
+Ucapan Terimakasih untuk Ayah dan Ibu : Terimakasih telah memberi apa yang aku inginkan.
